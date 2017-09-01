@@ -1453,7 +1453,7 @@ msgstr "Não tem uma conta ainda?"
 #: templates/account/login.html:17
 msgctxt "Login form secondary action"
 msgid "Register"
-msgstr "Registro"
+msgstr "Registo"
 
 #: templates/account/login.html:22
 msgctxt "Login form title"
@@ -1668,7 +1668,7 @@ msgstr "Sair"
 #: templates/base.html:57 templates/base.html:207
 msgctxt "Main navigation item"
 msgid "Register"
-msgstr "Registro"
+msgstr "Registo"
 
 #: templates/base.html:61 templates/base.html:212
 msgctxt "Main navigation item"
